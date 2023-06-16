@@ -23,7 +23,7 @@ We will be using PyTorch to train a convolutional neural network to recognize MN
 Now that we have setup the basics, lets try and experiment to achieve 99.4% or above validation accuracy with less than 8000 parameters. The following description gives a very High level view of 13 different steps for achieving the target( The details are in the individual notebooks)
 
 
-# A Visual Guide of the Journey
+
 
 ![](images/Model_journey.png)
 

@@ -1,4 +1,3 @@
-
 Training a Neural Network with CIFAR10 Data
 ===============================================
 
@@ -82,4 +81,3 @@ Display 10 misclassified images for the BN model, and show them as a 5x2 image m
 1. Group Normalization performs better than Layer normalization 
 2. Batch Normalization performs better than Group normalization
 3. Adding previous layer ouput improves the validation accuracy 
-
